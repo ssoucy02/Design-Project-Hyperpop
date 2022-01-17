@@ -1,0 +1,434 @@
+html {
+    background-image: url(/WEBSITE/background.png);
+    background-size: 100%;
+}
+ 
+header {
+    text-align: center;
+    color: #8e7cc3;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    word-spacing: 20px;
+}
+ 
+.title {
+    font-size: 60px;
+    border: aqua solid 10px;
+    width: 900px;
+    text-align: center;
+    background-image: url(/WEBSITE/banner.jpg);
+    color: white;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+.heading {
+    font-size: 30px;
+    border: #9900ff solid 10px;
+    width: 500px;
+    padding: 7px;
+    text-align: center;
+    background-color: white;
+    color: #444444;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;  
+    position: relative;
+    bottom: 520px;
+    left: 773px;
+}
+ 
+.icon {
+    width: 650px;
+    height: 490px;
+    background-image: url(/WEBSITE/osquinn.png);
+    border: #ff00ff solid 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+ 
+.quinn {
+    position: absolute;
+    background-size: 650px 490px;
+}
+ 
+.alice {
+    background-image: url(/WEBSITE/alicegas.jpg);
+}
+ 
+.desc {
+    width: 550px;
+    height: 360px;
+    display: inline-block;
+    background-image: url(/WEBSITE/image-removebg-preview\ \(2\).png);
+    background-size: contain;
+    position: absolute;
+    right: 40px;
+    top: 300px;
+    color: rgb(182, 174, 174);
+    padding-top: 30px;
+    padding-left: 40px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+.seperator {
+    border: white 5px solid;
+}
+ 
+.titleh {
+    color: white;
+    font-style: italic;
+    font-size: 60px;
+    padding-top: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+ 
+.dev {
+    width: 620px;
+    height: 500px;
+    display: inline-block;
+    background-image: url(/WEBSITE/image-removebg-preview\ \(3\).png);
+    background-size: contain;
+    margin-left: 350px;
+    margin-top: 20px;
+    padding: 50px;
+    padding-top: 40px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+.cover {
+    height: 200px;
+    width: 200px;
+    border: 4px black solid;
+    display: inline-block;
+    background-size: 200px 200px;
+}
+ 
+.masq {
+    background-image: url(/WEBSITE/masquerade.jpg);
+    background-size: 280px 280px;
+    height: 280px;
+    width: 280px;
+    position: absolute;
+    bottom: -650px;
+    left: 50px;
+}
+ 
+.bitt {
+    background-image: url(/WEBSITE/sobitter.jpg);
+    position: absolute;
+    right: 70px;
+    bottom: -370px;
+}
+ 
+.spec {
+    background-image: url(/WEBSITE/special.jpg);
+    position: absolute;
+    right: 70px;
+    bottom: -800px;
+}
+ 
+.sparkle {
+    background-image: url(/WEBSITE/decorationa.png);
+    background-size: cover;
+    width: 290px;
+    height: 220px;
+    position: relative;
+    bottom: 500px;
+    right: 1070px;
+    display: inline-block;
+}
+
+.sparkles {
+    background-image: url(/WEBSITE/decoration.png);
+    background-size: cover;
+    width: 480px;
+    height: 220px;
+    position: relative;
+    bottom: 100px;
+    right: 60px;
+    display: inline-block;
+
+}
+
+.sparklez {
+    background-image: url(/WEBSITE/pixlr-bg-result.png);
+    background-size: cover;
+    width: 300px;
+    height: 220px;
+    position: relative;
+    bottom: 500px;
+    left: 510px;
+    display: inline-block;
+
+}
+
+a {
+    color: #8e7cc3;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+.abt {
+    border: turquoise 7px solid;
+    border-radius: 5px;
+    padding-top: 0px;
+    width: auto;
+    background:transparent;
+    font-weight: bold;
+    
+}
+
+.self {
+    background-image: url(/WEBSITE/selfportrait.png);
+    background-size: contain;
+    height: 460px;
+    width: 250px;
+    display: inline-block;
+    margin-left: 50px;
+    border: #ff00ff solid 5px;
+    border-radius: 0px;
+    margin-top: 20px;
+}
+
+.subheada {
+    font-size: 25px;
+    background-color: black;
+    border: #9900ff solid 7px;
+    margin-top: 20px;
+    padding: 7px;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro {
+    display: inline-block;
+    width: 900px;
+    height: 420px ;
+    border: white 3px solid;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: black;
+    position:relative;
+    bottom: 30px;
+    word-spacing: 4px;
+}
+
+.sb {
+    bottom: 0;
+    height: auto;
+    left: 80px;
+    width: 1000px;
+    border: yellowgreen 4px solid;
+    border-radius: 2px;
+}
+
+.point {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding-left: 100px;
+    margin-left: 120px;
+    padding: 8px 8px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+
+
+ }
+
+.continue {
+    text-shadow: 6px 5px 1px black;
+    background-color: black;
+    padding-top: 5px;
+    margin: 40px 0px 20px 0px;
+    height: 50px;
+    border: blueviolet 3px solid;
+    letter-spacing: normal;
+}
+
+.bc {
+    background-color: black;
+    border: #ff00ff solid 3px;
+    margin: 30px 80px;
+}
+
+
+.dull {
+    color: slategray;
+}
+
+table,
+td {
+    border: 2px solid rgb(204, 18, 241);
+    border-collapse: collapse;
+}
+
+thead,
+tfoot {
+    background-color: rgb(204, 18, 241);
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+}
+
+table {
+    width: 700px;
+    height: 1000px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 100px;
+    background-color: black;
+    margin-top: 100px;
+  
+    
+}
+
+table a {
+    color: white;
+}
+
+table a:hover {
+    color:slategray;
+}
+
+
+.dc {
+    border: lawngreen 2px solid;
+    margin: 30px 80px;
+}
+
+.glaive {
+    background-image: url(/WEBSITE/glaive.jpg);
+    background-size: cover;
+    position: relative;
+    left: 1000px;
+    bottom: 200px;
+
+}
+
+.whokilled {
+    background-image: url(/WEBSITE/whokilledxix.jpg);
+    position: relative;
+    left: 900px;
+    bottom: 700px;
+}
+
+.siouxxie {
+    background-image: url(/WEBSITE/siouxxie.png);
+    position: relative;
+    left: 500px;
+    bottom: 1000px;
+}
+
+.gecs {
+    background-image: url(/WEBSITE/gecs.jpg);
+    position: relative;
+    left: 200px;
+    bottom: 500px;
+}
+
+.caption {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    position: relative;
+    padding: 3px;
+    top: 80%;
+    background-color: white;
+    color: black;
+    opacity: 0.75;
+    text-align: center;
+}
+
+.song {
+    background-image: url(/WEBSITE/song-cover.jpg);
+    margin-left: 100px;
+    border: rgb(204, 18, 241) solid 8px;
+    border-radius: 2px;
+}
+
+ul {
+    list-style-type:'★';
+    font-weight: bold;
+}
+
+.nested {
+    list-style-type:'☆';
+    font-weight: normal;
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+    width: 650px;
+    height: 490px;
+    position: relative;
+    margin: auto;
+    border: #ff00ff solid 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin: 20px;
+  }
+  
+  /* Hide the images by default */
+  .mySlides {
+    display:none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+  /* Fading animation */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
